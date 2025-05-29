@@ -46,7 +46,7 @@ Here are a couple of projects I'm particularly proud of:
     * A Go-based service to send personalized bulk emails and track open rates using tracking pixels, featuring template support, Redis for storage, rate limiting, and concurrent processing.
     * *Key Tech: Go, Gin, Redis, Docker*
 
-2.  **[Monkey Language Interpreter 🐒](https://github.com/Devashish08/Interpreter)** (*Assuming this is the repo name, please update if different*)
+2.  **[Interpreter 🐒](https://github.com/Devashish08/Interpreter)** 
     * A fully-featured interpreter for the Monkey programming language, built in Go. Supports variables, arithmetic expressions, functions, closures, strings, arrays, hash maps, and an interactive REPL.
     * *Key Tech: Go*
 
