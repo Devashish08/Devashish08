@@ -29,7 +29,7 @@ I’m eager to join a team that values clean architecture, mentorship, and impac
 
 🛠️ **Tech Stack & Tools:**
 
-* **Languages:** Go (Golang), Java, JavaScript (Node.js), Python, C/C++
+* **Languages:** Go (Golang), Java, JavaScript (Node.js)
 * **Backend:** RESTful APIs, Gin (Go), Express.js (Node.js)
 * **Databases:** MongoDB, SQL (MySQL, PostgreSQL), Redis
 * **MERN Stack:** MongoDB, Express.js, React, Node.js
