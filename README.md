@@ -5,9 +5,10 @@
 
 ## Hi there, I'm Devashish 👋
 
-I'm a **Computer Science Engineering graduate (Class of 2025)** with a strong passion for **backend development** and building robust, scalable systems. I primarily work with **Go (Golang)** but I'm versatile and open to opportunities involving Java and the MERN stack.
-
-I'm driven by the challenge of designing efficient solutions and continuously improving my skills in backend technologies and system design. My goal is to contribute to impactful projects and grow as an engineer in an environment that values collaboration and innovation.
+I’m Devashish , a backend engineer in the making, fueled by curiosity and a drive to build things that scale.
+My current focus is on mastering Go and understanding the internals of distributed systems.
+I enjoy working with databases, microservices, and backend infrastructure.
+I’m eager to join a team that values clean architecture, mentorship, and impact.
 
 ---
 
