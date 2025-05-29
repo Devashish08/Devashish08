@@ -5,7 +5,7 @@
 
 ## Hi there, I'm Devashish 👋
 
-I’m Devashish , a backend engineer in the making, fueled by curiosity and a drive to build things that scale.
+a backend engineer in the making, fueled by curiosity and a drive to build things that scale.
 My current focus is on mastering Go and understanding the internals of distributed systems.
 I enjoy working with databases, microservices, and backend infrastructure.
 I’m eager to join a team that values clean architecture, mentorship, and impact.
